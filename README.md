@@ -4,7 +4,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Melis Diken 'midiken@gwu.edu', Andrea Ho 'andreaho@gwu.edu', Hyemin Park 'hyemin0918@gwu.edu', Chanmi Shin 'chanmishin@gwu.edu'
+* **Person or organization developing model**: Hyemin Park 'hyemin0918@gwu.edu', Melis Diken 'midiken@gwu.edu', Andrea Ho 'andreaho@gwu.edu', Chanmi Shin 'chanmishin@gwu.edu'
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
